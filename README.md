@@ -5,4 +5,4 @@ Machine Learning tasks using pyspark MLlib
 ###### Linear Regression on Boston Housing Dataset.
   
   - Basic expanatory analysis for the boston housing dataset.
-  - Use a Linear Regression to find the parameters and make predictions.
+  - Use a Linear Regression model to find the parameters and make predictions.
