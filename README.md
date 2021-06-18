@@ -15,6 +15,6 @@ The analysis is performed on:
   ###### The analysis was conducted for Outreachy 2021 cohort.
   
 ## Built with
-  - Data Analysis tools: pandas
-  - ML libraries: Scikit-Learn, TensorFlow.keras, Pyspark MLlib
-  - Other: XgBoost
+  - Data Analysis tools: pandas.
+  - ML libraries: Scikit-Learn, TensorFlow.keras, Pyspark MLlib.
+  - Other: XgBoost.
